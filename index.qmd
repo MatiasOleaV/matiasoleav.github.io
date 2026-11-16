@@ -1,0 +1,62 @@
+---
+title: "Matías Olea Valdivia"
+subtitle: "Geógrafo · Lab. de Geoinformación y Percepción Remota PUCV · Centro de Acción Climática PUCV "
+image: foto.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Correo
+      href: mailto:matias.olea@pucv.cl
+    - icon: github
+      text: GitHub
+      href: https://github.com/MatiasOleaV
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0194-7784
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.es/citations?user=n8Q26G8AAAAJ&hl=es
+    - icon: globe
+      text: LabGRS PUCV
+      href: https://www.pucv.cl/uuaa/site/edic/base/port/labgrs.html
+    - icon: globe
+      text: CAC PUCV
+      href: https://accionclimaticapucv.com/
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
+---
+
+## Biografía
+
+Soy geógrafo de la Pontificia Universidad Católica de Valparaíso y llevo 10 años investigando en los Laboratorios de Geoinformación y Percepción Remota, y de Dendrocronología y Estudios Ambientales PUCV. Hoy formo parte del Centro de Acción Climática PUCV, donde apoyo la formulación de proyectos y el análisis de datos espaciales.
+
+He participado en proyectos financiados por ANID, CORFO y el Ministerio del Medio Ambiente, y soy coautor de 9 artículos científicos en percepción remota, SIG y ciencias ambientales. Coordino el Diplomado en Geoinformación y Percepción Remota PUCV y hago clases en la carrera de Geografía, donde recibí el Premio a la Docencia Universitaria Distinguida.
+
+## Intereses
+
+- Percepción remota y series de tiempo satelitales
+- Fenología y anomalías extremas de la vegetación
+- Sequía, eventos hidroclimáticos extremos y cambio climático
+- Bofedales altoandinos y ecosistemas áridos
+- Apicultura y adaptación al cambio climático
+
+## Formación
+
+**Geógrafo**\
+Pontificia Universidad Católica de Valparaíso · 2016
+
+**Licenciado en Geografía**\
+Pontificia Universidad Católica de Valparaíso · 2015
+
+## Premios
+
+**Premio a la Docencia Universitaria Distinguida**\
+Pontificia Universidad Católica de Valparaíso · 2020
+
+**Premio Instituto de Geografía** \
+Al desempeño y trayectoria académica \
+Pontificia Universidad Católica de Valparaíso · 2016

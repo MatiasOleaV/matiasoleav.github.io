@@ -1,0 +1,40 @@
+---
+title: "Publicaciones y participación en congresos"
+description: "Artículos científicos en revistas con revisión por pares, en las que he participado, y participación en instancias de divulgación científica como seminarios, congresos, simposios, etc."
+---
+
+### **Publicaciones**
+
+::: publicaciones
+**2025** · Aránguiz-Acuña, A., Alday-Galleguillos, G., Pérez, D. H., Chávez, R. O., **Olea, M.**, Comunidad Lickan Antay de Toconao, Prieto, M., Figueroa, V., Espíndola, C., Tejerina, A., Galleguillos, F., Sanzana, C., Núñez, L., & Loyola, R. Spatial and temporal heterogeneity of depositional environment and vegetational cover in a salt flat of the Lickan Antay Territory of Toconao, Northern Chile. *Progress in Physical Geography: Earth and Environment*, 49(1-2), 3–23. [DOI](https://doi.org/10.1177/03091333241306660){target="_blank"}
+
+**2023** · Chávez, R. O., Meseguer-Ruiz, O., **Olea, M.**, Calderón-Seguel, M., Yager, K., Meneses, R. I., Lastra, J. A., Núñez-Hidalgo, I., Sarricolea, P., Serrano-Notivoli, R., & Prieto, M. Andean peatlands at risk? Spatiotemporal patterns of extreme NDVI anomalies, water extraction and drought severity in a large-scale mining area of Atacama, northern Chile. *International Journal of Applied Earth Observation and Geoinformation*, 116, 103138. [DOI](https://doi.org/10.1016/j.jag.2022.103138){target="_blank"}
+
+**2023** · Chávez, R. O., Estay, S. A., Lastra, J. A., Riquelme, C. G., **Olea, M.**, Aguayo, J., & Decuyper, M. npphen: An R-Package for Detecting and Mapping Extreme Vegetation Anomalies Based on Remotely Sensed Phenological Variability. *Remote Sensing*, 15(1), 73. [DOI](https://doi.org/10.3390/rs15010073){target="_blank"}
+
+**2022** · Chávez, R. O., Castillo-Soto, M. E., Traipe, K., **Olea, M.**, Lastra, J. A., & Quiñones, T. A Probabilistic Multi-Source Remote Sensing Approach to Evaluate Extreme Precursory Drought Conditions of a Wildfire Event in Central Chile. *Frontiers in Environmental Science*, 10, 865406. [DOI](https://doi.org/10.3389/fenvs.2022.865406){target="_blank"}
+
+**2022** · Gajardo-Rojas, M., Muñoz, A. A., Barichivich, J., Klock-Barría, K., Gayo, E. M., Fontúrbel, F. E., **Olea, M.**, Lucas, C. M., & Veas, C. Declining honey production and beekeeper adaptation to climate change in Chile. *Progress in Physical Geography: Earth and Environment*. [DOI](https://doi.org/10.1177/03091333221093757){target="_blank"}
+
+**2021** · Anderson, T. G., Christie, D. A., Chávez, R. O., **Olea, M.**, & Anchukaitis, K. J. Spatiotemporal Peatland Productivity and Climate Relationships Across the Western South American Altiplano. *Journal of Geophysical Research: Biogeosciences*, 126(6). [DOI](https://doi.org/10.1029/2020JG005994){target="_blank"}
+
+**2019** · Chávez, R. O., Christie, D. A., **Olea, M.**, & Anderson, T. G. A Multiscale Productivity Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of Landsat Imagery. *Remote Sensing*, 11(24), 2955. [DOI](https://doi.org/10.3390/rs11242955){target="_blank"}
+
+**2019** · Chávez, R. O., Moreira-Muñoz, A., Galleguillos, M., **Olea, M.**, Aguayo, J., Latín, A., Aguilera-Betti, I., Muñoz, A. A., & Manríquez, H. GIMMS NDVI time series reveal the extent, duration, and intensity of "blooming desert" events in the hyper-arid Atacama Desert, Northern Chile. *International Journal of Applied Earth Observation and Geoinformation*, 76, 193–203. [DOI](https://doi.org/10.1016/j.jag.2018.11.013){target="_blank"}
+
+**2017** · Aguilera-Betti, I., Muñoz, A. A., Stahle, D., Figueroa, G., Duarte, F., González-Reyes, Á., Christie, D., Lara, A., González, M. E., Sheppard, P. R., Sauchyn, D., Moreira-Muñoz, A., Toledo-Guerrero, I., **Olea, M.**, Apaz, P., & Fernandez, A. The First Millennium-Age *Araucaria araucana* in Patagonia. *Tree-Ring Research*, 73(1), 53–56. [DOI](https://doi.org/10.3959/1536-1098-73.1.53){target="_blank"}
+:::
+
+### **Congresos**
+
+**2026** · **Matías Olea,** Martina Gajardo, Ariel Muñoz, Karen Yañez, José Lastra, Eugenia Gayó, Fabrice Requier. *Efectos de la sequía extrema sobre la apicultura en Chile: Dinámica espacio-temproal de la trashumancia*. I Congreso de Investigación Apícola ENAPI. 31 de julio 2026. Presentación Oral (en español).
+
+**2025** · **Matías Olea,** Martina Gajardo, Ariel Muñoz, Karen Yañez, José Lastra, Eugenia Gayó. *Efectos de la sequía extrema sobre la apicultura en Chile: Dinámica espacio-temproal de la trashumancia*. II Simposio Internacional del Clima y la Resiliencia. Santiago / Viña del Mar, 3-7 de noviembre 2025. Presentación Poster (en español).
+
+**2022** · **Matías Olea**, Roberto O. Chávez, Manuel Prieto, Rosa Meneses, Fabian Nieto, Francisco Mayol. *Análisis espacio-temporal de productividad primaria del bofedal de Corocoro-Cosapilla bajo distintos niveles de intervención usando 35 años de imágenes satelitales Landsat*. Reunión Anual 2022: LXV Reunión Anual Sociedad De Biología De Chile, XXVIII Reunión Anual Sociedad De Ecología De Chile, XVIII Reunión Anual Sociedad Chilena De Neurociencia. Hotel Enjoy, Pucón 5, 6 y 7 diciembre 2022. Presentación Poster (en español).
+
+**2020** · **Matías Olea**, Roberto Chávez, Duncan Christie y Talia Anderson. *Caracterización de la dinámica espacio-temporal de la distribución y productividad primaria de bofedales andinos a través del altiplano chileno (17.5-24°S) mediante el uso de datos satelitales masivos de NDVI durante los últimos 31 años*. Congreso LXII SOCBIOL - XIII SOCEVOL - XXVI SOCECOL - XXX SBO 2019, 11-13 marzo 2020, Valdivia, Chile. Presentación Poster (en español).
+
+**2018** · **Matías Olea**, Roberto Chávez, Duncan Christie y Talia Anderson. *Caracterización espacio-temporal de bofedales andinos (17°-24°S) utilizando series de tiempo de NDVI de imágenes Landsat*. Foro PERSIG, 22 al 23 de Octubre Santiago, Chile. Presentación Oral (en español).
+
+**2016** · **Matías Olea**, Ariel Muñoz, Viviana Vargas, Alvaro Gonzalez. *Soil moisture variability from satellite observation and its relationship with forest fire in the Araucania Region, Chile*. VIII Southern Connection Congress Enero 2016. Punta Arenas, Chile. Presentación Poster (en inglés).

@@ -1,0 +1,33 @@
+---
+title: "Fenología de la superficie terrestre de Chile"
+description: "Análisis geoespacial de la fenología de la vegetación de Chile para evaluar los posibles efectos del cambio climático."
+date: 2017-01-01
+image: imagen.jpg   # quita el # del inicio cuando agregues la imagen a esta carpeta
+categories: [FONDECYT, Fenología, Percepción remota]
+---
+
+| | |
+|---|---|
+| **Financiamiento** | FONDECYT de Iniciación N° 11171046 (ANID) |
+| **Período** | 2017 – 2020 |
+| **Rol** | Asistente de Investigación |
+| **Institución** | Laboratorio de Geoinformación y Percepción Remota, PUCV |
+| **Investigador responsable** | Roberto O. Chávez |
+
+**Título original:** *A Geo-Spatial Analysis of the land surface phenology of Chile: New insights into assessing the potential effects of climate change on vegetation*
+
+## Descripción
+
+El proyecto analiza la fenología de la superficie terrestre de Chile, es decir, los ciclos anuales de la vegetación vistos desde satélite, para entender los posibles efectos del cambio climático sobre la vegetación.
+
+<!-- Completa con tu propio texto: objetivos, área de estudio y métodos. -->
+
+## Mi aporte
+
+<!-- Describe tus tareas: procesamiento de imágenes satelitales, análisis de datos, mapas, etc. -->
+
+## Productos
+
+<!-- Enlaza publicaciones, mapas o presentaciones. Ejemplo:
+- [Título del artículo](https://doi.org/...)
+-->

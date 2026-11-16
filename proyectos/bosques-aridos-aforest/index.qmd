@@ -1,0 +1,29 @@
+---
+title: "Núcleo Milenio AFOREST"
+description: "Ecología histórica aplicada para los bosques áridos."
+date: 2023-01-01
+image: imagen.jpg   # quita el # del inicio cuando agregues la imagen a esta carpeta
+categories: [Tamarugos, Bosques áridos, Pampa Tamarugal]
+---
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Financiamiento** | Núcleo Milenio NCS2022_024 (ANID) |
+| **Período** | 2023 |
+| **Rol** | Asistente de Investigación |
+| **Institución** | Laboratorio de Geoinformación y Percepción Remota, PUCV |
+| **Investigadores responsables** | Francisca Díaz y Roberto O. Chávez |
+
+**Título original:** *Núcleo Milenio de Ecología Histórica Aplicada para los Bosques Áridos “AFOREST”*
+
+## Descripción
+
+El Núcleo Milenio AFOREST estudia los bosques áridos desde la ecología histórica aplicada.
+
+## Mi aporte
+
+Dentro de este proyecto construí una linea de base fenológica para los bosques de tamarugos en el norte de Chile para evaluar los cambios en su verdor desde la segunda mitad de la década de los 80 hasta el 2024 a través de imágenes Landsat. Adicionalmente, cree mapas de profundida de la napa del acuífero de la pampa utilizando las estaciones de monitoreo disponible.
+
+## Productos
+
+Plataforma de Visualización de verdor de Tamarugos - [clic aquí](https://labgrs.shinyapps.io/TamarugoViz/)

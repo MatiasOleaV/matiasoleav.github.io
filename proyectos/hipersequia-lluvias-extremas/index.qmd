@@ -1,0 +1,17 @@
+---
+title: "De la hipersequía a las lluvias extremas"
+description: "Cambios en la frecuencia de eventos hidroclimáticos extremos y sus impactos en los bosques de Chile, para apoyar la planificación del riesgo climático."
+date: 2024-03-01
+image: imagen.jpg
+categories: [Bosque Esclerófilo, Percepción remota, Cambio climático, Sequía]
+---
+
+**FONDECYT Regular N° 1241971** · 2024 – 2028
+
+*From hyper drought to heavy rainfall: Assessing changes in the frequency
+of hydroclimatic extremes events and their impacts on forest ecosystems
+to support climate risk planning in Chile.*
+
+Rol: Asistente de Investigación, Laboratorio de Geoinformación y
+Percepción Remota PUCV. Investigadores responsables: Roberto O. Chávez
+y Ariel Muñoz.

@@ -1,0 +1,7 @@
+/* css styles */
+/* Texto justificado (de margen a margen) */
+main p,
+main li {
+  text-align: justify;
+  hyphens: auto;
+}

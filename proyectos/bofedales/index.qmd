@@ -1,0 +1,34 @@
+---
+title: "Cambios climáticos e hidrológicos en el Altiplano durante el último milenio"
+description: "Estudio del comportamiento del verdor de turberas del altiplano y otros proxies ambientales"
+date: 2016-03-01
+image: imagen.jpg   # quita el # del inicio cuando agregues la imagen a esta carpeta
+categories: [Bofedales, Percepción remota, Productividad, Primer catastro]
+---
+
+| | |
+|---|---|
+| **Financiamiento** | FONDECYT Regular N° 1161381 (ANID) |
+| **Período** | 2016 – 2020 |
+| **Rol** | Asistente de Investigación |
+| **Institución** | Laboratorio de Geoinformación y Percepción Remota, PUCV |
+| **Investigadores responsables** | Duncan Christie y Roberto O. Chávez |
+
+**Título original:** *Climatic and hydrological changes in the Altiplano during the last millennium: new insights from annually-resolved paleoarchives*
+
+## Descripción
+
+Este proyecto buscaba complementar los limitados registros instrumentales, expandiendo la actual red de anillos de árboles, a lo largo del Altiplano. Además, planeamos combinar los registros de anillos de árboles de alta resolución con registros δ 18 O de núcleos de hielo para reconstruir los cambios hidrológicos en el Altiplano. Se desarrollaron nuevas reconstrucciones paleohidrológicas, calibrando estos proxies resueltos anualmente con parámetros hidrológicos socio-ambientalmente relevantes como niveles de lago, balance de masas de glaciares y productividad de los bofedales en los últimos 35 con registros de series NDVI de Landsat.
+
+## Mi aporte
+
+En este proyecto procesé un gran volumen de información satelital para poder caracterizar espacio-temporalmente el comportamiento de las turberas altoandinas, conocidas localmente como bofedales. A través del procesamiento de imagenes satelitales Landsat, se reconstruyó su fenología y se determinaron periodos de aumento y disminución del verdor de estos ecosistemas. Este proyecto me permitió crear el primer catastro de bofedales.
+
+## Productos
+
+2021 · Anderson, T. G., Christie, D. A., Chávez, R. O., Olea, M., & Anchukaitis, K. J. Spatiotemporal Peatland Productivity and Climate Relationships Across the Western South American Altiplano. Journal of Geophysical Research: Biogeosciences, 126(6). [DOI](https://doi.org/10.1029/2020JG005994)
+
+2019 · Chávez, R. O., Christie, D. A., Olea, M., & Anderson, T. G. A Multiscale Productivity Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of Landsat Imagery. Remote Sensing, 11(24), 2955. [DOI](https://doi.org/10.3390/rs11242955)
+
+Primer Catastro de Bofedales de Chile [ver aquí](https://www.pucv.cl/uuaa/labgrs/descargas#vtxt_cuerpo_T1)
+

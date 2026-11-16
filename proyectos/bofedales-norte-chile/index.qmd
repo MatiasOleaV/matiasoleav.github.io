@@ -1,0 +1,31 @@
+---
+title: "Dimensiones socioecológicas de los bofedales del norte de Chile"
+description: "Manejo local, variabilidad climática y extractivismo en los bofedales altoandinos."
+date: 2021-01-01
+image: imagen.jpg   # quita el # del inicio cuando agregues la imagen a esta carpeta
+categories: [FONDECYT, Bofedales, Percepción remota]
+---
+
+| | |
+|---|---|
+| **Financiamiento** | FONDECYT Regular N° 1201527 (ANID) |
+| **Período** | 2021 – 2023 |
+| **Rol** | Asistente de Investigación |
+| **Institución** | Laboratorio de Geoinformación y Percepción Remota, PUCV |
+| **Investigadores responsables** | Roberto O. Chávez y Manuel Prieto |
+
+**Título original:** *Dimensiones socioecológicas de los bofedales en el norte de Chile: Manejo local, variabilidad climática y extractivismo*
+
+## Descripción
+
+El proyecto estudia los bofedales del norte de Chile desde tres dimensiones: el manejo local que hacen las comunidades, la variabilidad climática y los efectos del extractivismo.
+
+## Mi aporte
+
+En este proyecte estudié las variaciones espacio-temporales del verdor de bofedales manejados por comunidades altiplanas y cercanas a actividades extractivas para buscar relaciones entre la actividad humana y efectos del cambio climático.
+
+## Productos
+
+2023 · Chávez, R. O., Meseguer-Ruiz, O., Olea, M., Calderón-Seguel, M., Yager, K., Meneses, R. I., Lastra, J. A., Núñez-Hidalgo, I., Sarricolea, P., Serrano-Notivoli, R., & Prieto, M. Andean peatlands at risk? Spatiotemporal patterns of extreme NDVI anomalies, water extraction and drought severity in a large-scale mining area of Atacama, northern Chile. International Journal of Applied Earth Observation and Geoinformation, 116, 103138. [DOI](https://doi.org/10.1016/j.jag.2022.103138)
+
+2025 · Aránguiz-Acuña, A., Alday-Galleguillos, G., Pérez, D. H., Chávez, R. O., Olea, M., Comunidad Lickan Antay de Toconao, Prieto, M., Figueroa, V., Espíndola, C., Tejerina, A., Galleguillos, F., Sanzana, C., Núñez, L., & Loyola, R. Spatial and temporal heterogeneity of depositional environment and vegetational cover in a salt flat of the Lickan Antay Territory of Toconao, Northern Chile. Progress in Physical Geography: Earth and Environment, 49(1-2), 3–23. [DOI](https://doi.org/10.1177/03091333241306660)

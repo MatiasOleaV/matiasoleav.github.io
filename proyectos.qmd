@@ -1,0 +1,11 @@
+---
+title: "Proyectos"
+listing:
+  contents: proyectos
+  type: grid
+  sort: "date desc"
+  grid-columns: 3
+  categories: false
+---
+
+Proyectos de investigación en los que he participado como asistente en Laboratorio de Geoinformación y Percepción Remota de la Pontificia Universidad Católica de Valparaíso.

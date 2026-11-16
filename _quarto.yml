@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages publicará esta carpeta
+  resources:
+    - cv.pdf              # copia el PDF al sitio publicado
+
+lang: es
+
+website:
+  title: "Matías Olea"
+  description: "Geógrafo PUCV · Percepción remota, Cambio climático y Ecosistemas"
+  site-url: "https://matiasoleav.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: publicaciones.qmd
+        text: Publicaciones
+      - href: asistencias.qmd
+        text: Asistencias Técnicas
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:matias.olea@pucv.cl
+      - icon: github
+        href: https://github.com/MatiasOleaV
+  page-footer:
+    center: "© 2026 Matías Olea Valdivia · Hecho con Quarto"
+
+format:
+  html:
+    theme: minty          # prueba también: flatly, litera, lux, minty
+    css: styles.css
+    toc: false
